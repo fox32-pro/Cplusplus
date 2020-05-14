@@ -9,6 +9,7 @@ int main(){
 	cin >> y;
 	cout << "Your Username is : " << x << endl;
 	cout << "Your Password is : " << y << endl;
+	cout << "Have a nice day" << endl;
 	getch(); //this will pause the code
 	//this code is for testing perpose so don't warry
 	//auther Soumen Samanta [Microfarad]
